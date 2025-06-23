@@ -1,0 +1,605 @@
+[{
+  "name": "multilayer-perceptron",
+  "description": "This project is an introduction to artificial neural networks through the implementation of a multilayer perceptron.",
+  "state": "not_recommended"
+}, {
+  "name": "ft_hangouts",
+  "description": "The goal of this project is to introduce you to mobile application development. You will build a contact management app for Android, allowing users to create, manage, and interact with their contacts. Throughout the project, you will learn how a mobile app works, how the Android system manages application lifecycles, and how to use the Android SDK effectively.",
+  "state": "available"
+}, {
+  "name": "computorv1",
+  "description": "The goal of this project is to get acquainted with handling elementary math tools that may be helpful for other 42 projects. You will not “do math for doing math”, but to develop a progressive and relaxed approach to projects where these tools are needed. You can choose the language of your choice for this subject.",
+  "state": "available"
+}, {
+  "name": "gomoku",
+  "description": "This project involves creating, in the language of your choice, a Gomoku game integrating an AI player capable of beating a human player the fastest way possible. To do this, you will implement a min-max algorithm but also do research, trial and error to find the most adapted heuristics. This will not be as easy as checkers.",
+  "state": "not_recommended"
+}, {
+  "name": "n-puzzle",
+  "description": "We are going to create, in any language, a programme capable of solving N-puzzles of various sizes, as efficiently as possible.",
+  "state": "available"
+}, {
+  "name": "42run",
+  "description": "Do you know the mobile game Temple Run? Time to settle and create it on your own! This OpenGL project aims to create a graphic game using the power of GPUs, manipulating 3D meshes, and implementing classical gameplay features.",
+  "state": "not_recommended"
+}, {
+  "name": "scop",
+  "description": "Your introduction to 3D rendering on the GPU using OpenGL, Vulkan, or Metal. Through this small graphical project, you'll explore the core concepts of modern 3D graphics.",
+  "state": "available"
+}, {
+  "name": "ft_linear_regression",
+  "description": "This project will be your first steps into AI and Machine Learning. You're going to start with a simple, basic machine learning algorithm. You will have to create a program that predicts the price of a car by using a linear function train with a gradient descent algorithm.",
+  "state": "available"
+}, {
+  "name": "humangl",
+  "description": "This intermediate OpenGL project is an introduction to hierarchical modeling. You will learn to use matrices in order to link various parts of a humanoid model, and animate them.",
+  "state": "not_recommended"
+}, {
+  "name": "camagru",
+  "description": "This project is a warm-up for web development. You will need to create a small, Instagram-like website that allows users to create and share photomontages. From scratch, you will implement the basic functionalities commonly used by any website with a user base.",
+  "state": "available"
+}, {
+  "name": "ft_ping",
+  "description": "Re-coding the ping command will allow you to become acquainted with raw IP communication between two machines on a network.",
+  "state": "available"
+}, {
+  "name": "matcha",
+  "description": "This second project introduces a more advanced tool for building web applications: the micro-framework. You are invited to create a dating site in the programming language of your choice. User interaction is at the heart of this project!",
+  "state": "available"
+}, {
+  "name": "hypertube",
+  "description": "Hypertube introduces you to a powerful category of tools: MVC frameworks. You will learn how to work with an MVC framework—using the programming language of your choice—to build a video streaming website with content downloaded via the BitTorrent protocol.",
+  "state": "not_recommended"
+}, {
+  "name": "ft_turing",
+  "description": "ft_turing will help you discover the turing model using imperative programming through an implementation of this model with OCaml",
+  "state": "available"
+}, {
+  "name": "darkly",
+  "description": "Introductory project to computer security in the specific field of the web, this project will have you dissect a vulnerable website. In doing so, you will develop your own approach to thinking about security in a web application and become aware of issues related to simple development errors, both from a programming and a design perspective.",
+  "state": "available"
+}, {
+  "name": "particle-system",
+  "description": "This infographics project is an introduction to the fascinating world of GPU programming. You will design a particle system while meeting performance constraints, using GPU libraries such as OpenGL, OpenCL, Metal, CUDA, or Vulkan to parallelize computations.",
+  "state": "not_recommended"
+}, {
+  "name": "cloud-1",
+  "description": "This project is an introduction to cloud servers.",
+  "state": "in_progress"
+}, {
+  "name": "dr-quine",
+  "description": "This small algo project will get you acquainted with auto-replication problems and confront the Kleene recursion theorem.",
+  "state": "available"
+}, {
+  "name": "matt-daemon",
+  "description": "A Unix project to create a server-type daemon. This server will listen on a given port and interpret a list of commands.",
+  "state": "not_recommended"
+}, {
+  "name": "music-room",
+  "description": "In a group, create a complete mobile app for collaborative playlists using a relevant SDK and API. The tasks include mobile native development, back-end development, and the creation of a REST API.",
+  "state": "available"
+}, {
+  "name": "red-tetris",
+  "description": "The objective of this project is to develop a networked multiplayer Tetris game using a software stack that is exclusively Full Stack JavaScript.",
+  "state": "available"
+}, {
+  "name": "h42n42",
+  "description": "A project introducing the OCSIGEN framework, used to create rich applications in OCaml. The goal is to design a simulator of bugs escaping a dangerous virus.",
+  "state": "not_recommended"
+}, {
+  "name": "kfs-5",
+  "description": "You must now develop process managing in your Kernel, by implementing how to interpret the command :(){ :|:& }",
+  "state": "not_recommended"
+}, {
+  "name": "avaj-launcher",
+  "description": "First project of the Java projects arc. Implementation of a simple Java program according to a given class diagram written in UML.",
+  "state": "unavailable"
+}, {
+  "name": "fix-me",
+  "description": "Final project of the Java Programming arc. You will write a program that simulates stock exchanges and handles trading algorithms, including networking and socket implementations.",
+  "state": "unavailable"
+}, {
+  "name": "ft_vox",
+  "description": "ft_vox is a project to introduce the voxel engine, inspired by minecraft, in which you must create a randomly generated world.",
+  "state": "not_recommended"
+}, {
+  "name": "ft_ssl_md5",
+  "description": "You will recode part of the OpenSSL program, specifically the MD5 Hashing Algorithm.",
+  "state": "not_recommended"
+}, {
+  "name": "ft_ssl_des",
+  "description": "You will reimplement part of the OpenSSL program, specifically BASE64, DES-ECB, and DES-CBC.",
+  "state": "not_recommended"
+}, {
+  "name": "dslr",
+  "description": "Discover Data Science through this project by recreating the Hogwarts Sorting Hat using logistic regression!",
+  "state": "available"
+}, {
+  "name": "doom-nukem",
+  "description": "Doom Nukem pushes the possibilities of Raycasting much further while bringing a dimension of Game design, so you are going to have to make a mix of Doom and Duke Nukem 3D.  It's up to you to find the one that suits you and that will allow you to add the requested features as well as those you want to see there.",
+  "state": "available"
+}, {
+  "name": "zappy",
+  "description": "You will now create a multi-player game in a TCP/IP network. The game will consist of a server managing the game field, a graphic client which displays the state of the board, and IA clients that connect to the server to pilot a player on the filed. This is a real complete project that will let you express your creativity on top of your technical knowledge.",
+  "state": "available"
+}, {
+  "name": "malloc",
+  "description": "What’s the deal with malloc? You’ve been using it since the piscine C but it’s not a system call. Find out the workings behind optimum memory management and recode it, as well as free and realloc.",
+  "state": "available"
+}, {
+  "name": "42sh",
+  "description": "This project consists of creating a complete shell. A minimum set of functionalities is asked, from which you will build your own finalized shell, potentially going as far as job control and shell scripting. This project will involve a large variety of standard UNIX (and POSIX) functionalities.",
+  "state": "available"
+}, {
+  "name": "rt",
+  "description": "RT pushes the limits of what Raytracing can do: mirror effect, transparency, object cutting, texture application…Use the preceding project to create an infrastructure capable of supporting all these ramifications and obtain sublime computer-generated images.",
+  "state": "available"
+}, {
+  "name": "ft_newton",
+  "description": "Basic physics engine - motion - gravity - collisions.",
+  "state": "not_recommended"
+}, {
+  "name": "ready set boole",
+  "description": "Discover the basics of computer-related mathematics with Boolean Algebra and Sets Theory!",
+  "state": "available"
+}, {
+  "name": "ft_minecraft",
+  "description": "ft_minecraft is the continuation of ft_vox, with a more advanced approach to procedural generation, rendering techniques and networking.",
+  "state": "not_recommended"
+}, {
+  "name": "Python for Data Science",
+  "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+  "state": "available"
+}, {
+  "name": "Unity",
+  "description": "Piscines are an important part of your curriculum, giving you the opportunity to learn a new language — or even explore a completely new paradigm!",
+  "state": "available"
+}, {
+  "name": "Abstract_data",
+  "description": "The multiple available containers in C++ all have a very different usage. To make sure you understand them all, let's re-implement them!",
+  "state": "not_recommended"
+}, {
+  "name": "ft_lex",
+  "description": "A project about lexical analysis and finite automata. In this project you will implement a powerful regex engine",
+  "state": "available"
+}, {
+  "name": "libftpp",
+  "description": "This subject aims to introduce you to advanced C++ concepts through the development of complex tools and systems.",
+  "state": "available"
+}, {
+  "name": "Piscine ocaml",
+  "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+  "state": "available"
+}, {
+  "name": "Mobile",
+  "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+  "state": "in_progress"
+}, {
+  "name": "Cybersecurity",
+  "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+  "state": "available"
+}, {
+  "name": "Piscine Object",
+  "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+  "state": "available"
+}, {
+  "name": "Piscine Django",
+  "description": "Piscines are an important time in your cursus, during which you will have the occasion to learn a new language, or even a new paradigm!",
+  "state": "available"
+}, {
+  "name": "ft_select",
+  "description": "The goal of this project is to get you started on terminal manipulation with termcaps. Here you will learn how to create a user interface for a program launched on the terminal.",
+  "state": "available"
+}, {
+  "name": "ft_script",
+  "description": "By re-coding the script command you will have the opportunity to understand interactions between user input and tty, notably line discipline as well as pseudo-terminals. Once the project finished, you will know why a Ctrl-C in your shell interrupts the ongoing program!",
+  "state": "available"
+}, {
+  "name": "freddie-mercury",
+  "description": "VR escape game",
+  "state": "available"
+}, {
+  "name": "libasm",
+  "description": "The aim of this project is to become familiar with assembly language.",
+  "state": "available"
+}, {
+  "name": "nm",
+  "description": "This project will educate you on a deeper comprehension of how linux handle executables, by re-creating the command nm",
+  "state": "available"
+}, {
+  "name": "pipex",
+  "description": "This project aims to deepen your understanding of the two concepts that you already know: Redirections and Pipes. It is an introductory project for the bigger UNIX projects that will appear later on in the cursus.",
+  "state": "unavailable"
+}, {
+  "name": "miniRT",
+  "description": "This project is an introduction to the beautiful world of Raytracing.",
+  "state": "unavailable"
+}, {
+  "name": "fract-ol",
+  "description": "Discover 2D programming and the psychedelic universe of fractals in this project, using minilibX.",
+  "state": "unavailable"
+}, {
+  "name": "Internship II",
+  "description": "  Your course 42 can be continued with a second period of professional integration: the second internship. This internship is the accomplishment of your journey, and will have you demonstrate your expertise professionally in a company. This will be the springboard for your career.",
+  "state": "available"
+}, {
+  "name": "Peace_Break",
+  "description": "Inspired by the classic game 'Brick Breaker', this project is a great introduction to mobile development. You'll design a user-friendly interface, manage user data, implement core gameplay features, and gain key skills in mobile app creation.",
+  "state": "not_recommended"
+}, {
+  "name": "Very_Real_Engine",
+  "description": "Create and implement a library containing all necessary tools, notably a graphics engine and a physics engine.",
+  "state": "not_recommended"
+}, {
+  "name": "42_Collaborative_resume",
+  "description": "Build your communication and self-reflection skills by working closely with a peer. Through mutual interviews, you’ll learn to recognize and express both your strengths and theirs—helping you craft genuine, effective resumes.",
+  "state": "unavailable"
+}, {
+  "name": "FdF",
+  "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+  "state": "unavailable"
+}, {
+  "name": "little-penguin-1",
+  "description": "The start of a series of challenges inspired by Eudyptula. You will get acquainted with many points of Kernel development.",
+  "state": "unavailable"
+}, {
+  "name": "ft_linux",
+  "description": "The first project of the Kernel branch! This is a simple LFS so that you can build your own distribution which will be used in the next projects",
+  "state": "available"
+}, {
+  "name": "snow-crash",
+  "description": "This project is an introduction to computer security. Snow Crash will help you discover security in various sub-domains, with a developer-oriented approach. You will become familiar with several languages (ASM, Perl, Php, etc.), develop a certain logic to understand unknown programs, and become aware of problems related to simple programming errors.",
+  "state": "available"
+}, {
+  "name": " Bgp At Doors of Autonomous Systems is Simple",
+  "description": "The purpose of this project is to deepen your knowledge of NetPractice.\n You will have to simulate several networks (VXLAN+BGP-EVPN) in GNS3. ",
+  "state": "available"
+}, {
+  "name": "abstract-vm",
+  "description": "This project puts you back in the water after the C++ piscine, and involves the creation of a virtual machine capable of executing a code in basic pseudo-ASM. You will thus use a stack for basic arithmetic operations, such as the dc command.",
+  "state": "available"
+}, {
+  "name": "ft_yacc",
+  "description": "A project about syntactic analysis and stack automata",
+  "state": "unavailable"
+}, {
+  "name": "B",
+  "description": "The letter before C",
+  "state": "unavailable"
+}, {
+  "name": "cc1",
+  "description": "This project is about creating a C compiler",
+  "state": "unavailable"
+}, {
+  "name": "ft_irc",
+  "description": "Create your own IRC server in C++, fully compatible with an official client.",
+  "state": "unavailable"
+}, {
+  "name": "ft_ality",
+  "description": "This project will get you acquainted with problems linked to automatic syntax analysis (“parsin”) by studying finite automation in a combat game.",
+  "state": "not_recommended"
+}, {
+  "name": "expert-system",
+  "description": "This project involves creating, in the language of your choice, an expert system in proposal calculation. In other words, a program that can reason on a set of rules and initial facts to deduce other facts.",
+  "state": "not_recommended"
+}, {
+  "name": "computorv2",
+  "description": "Now that you have programmed your equation solver, it’s time to go further. Computor V2 let’s you create your own calculator in command line, which will integrate your computor V1 as well as functions for matrix calculus, function resolution, calculation with complex numbers, etc.",
+  "state": "not_recommended"
+}, {
+  "name": "matrix",
+  "description": "You've probably encountered vectors and vector spaces before. Now it's time to formalize them through Linear Algebra and to learn how matrices and linear transformations work.",
+  "state": "available"
+}, {
+  "name": "swingy",
+  "description": "This is the second project from the Java world at 42. You will learn to develop GUI applications with the SWING framework, in order to create an RPG game.",
+  "state": "unavailable"
+}, {
+  "name": "Learn2Slither",
+  "description": "A cutting-edge Q-learning project focused on autonomous decision-making in a dynamic environment.",
+  "state": "not_recommended"
+}, {
+  "name": "ft_nmap",
+  "description": "Re-coding the nmap command will be the opportunity to deepen your knowledge of TCP/IP networks and thus understand advanced use of threads in real life.",
+  "state": "not_recommended"
+}, {
+  "name": "lem-ipc",
+  "description": "You have already seen communication between processes on a network via TCP/IP. You are now going to use other UNIX tools so that processes can communicate locally. You will discover these tools by creating a client of a classic boardgame.",
+  "state": "not_recommended"
+}, {
+  "name": "override",
+  "description": "If you thought Rainfall was easy, here’s a more daunting challenge. Override is last ISO that will have you search for faults present in the protected binaries, and re-build these binaries depending on their behavior.",
+  "state": "not_recommended"
+}, {
+  "name": "Ftl_quantum",
+  "description": "This project is an introduction to quantum programming. It will challenge you to create different quantum programs, and run them on a real quantum computer.",
+  "state": "available"
+}, {
+  "name": "in-the-shadows",
+  "description": "This project wants you to develop a complete game using a bit of algo and a lot of creativity.",
+  "state": "available"
+}, {
+  "name": "swifty-companion",
+  "description": "This project is an introduction to mobile programming. The goal is to create, an application which will allow you to get infos about 42students, using the API.",
+  "state": "available"
+}, {
+  "name": "shaderpixel",
+  "description": "Now that you are familiar with 3D objects and basic rendering techniques, we can get serious now and really work in the space of the graphic card. It’s up to you to design and create the weirdest objects thanks to shaders programming.",
+  "state": "not_recommended"
+}, {
+  "name": "bomberman",
+  "description": "Bomberman is a classic video game: as simple in its gameplay as it is fun to play! You will leverage its simplicity here to undertake your first major professional-grade C++ project. Your goal is to recode a version of Bomberman in C++ and OpenGL, with the aim of creating the most polished game possible.",
+  "state": "not_recommended"
+}, {
+  "name": "kfs-x",
+  "description": "This is the final kernel project. It just requires you to create a complete linux environment. Maybe name your kernel aswell?",
+  "state": "not_recommended"
+}, {
+  "name": "kfs-9",
+  "description": "Create an ELF parser and loader for your kernel.",
+  "state": "not_recommended"
+}, {
+  "name": "kfs-8",
+  "description": "Build a module interface for your kernel.",
+  "state": "not_recommended"
+}, {
+  "name": "kfs-7",
+  "description": "This project will teach you how to build your own syscalls for your kernel, as well as user accounts, sockets, and a Unix-like hierarchy. Almost a full kernel here!",
+  "state": "not_recommended"
+}, {
+  "name": "kfs-6",
+  "description": "Keep on developping your own kernel. This project will help you set up your own filesystem.",
+  "state": "not_recommended"
+}, {
+  "name": "kfs-4",
+  "description": "Project aimed at creating an Interrupt Description Table and handle interrupts within your Kernel",
+  "state": "not_recommended"
+}, {
+  "name": "kfs-3",
+  "description": "Third Kernel from Scratch project. Learn how to manage the memory in you kernel.",
+  "state": "not_recommended"
+}, {
+  "name": "kfs-2",
+  "description": "Discover the world of Kernel Programming and learn how to create your very own Kernel from scratch.",
+  "state": "not_recommended"
+}, {
+  "name": "kfs-1",
+  "description": "Discover the world of \"Kernel Programming\" and learn how to create your very own Kernel from scratch.",
+  "state": "not_recommended"
+}, {
+  "name": "xv",
+  "description": "This project was designed by the Daher company and has you develop a graphic interface under Unity for optimizing industrial processes.",
+  "state": "not_recommended"
+}, {
+  "name": "strace",
+  "description": "First step in a serie of projects in C language leading to creation of a mini-GDB, this project will ask you to recode strace, a tool allowing you to list syscalls done by a running program",
+  "state": "not_recommended"
+}, {
+  "name": "nibbler",
+  "description": "This project in C++ will make you recode a Snake where you can switch the interface at run time",
+  "state": "not_recommended"
+}, {
+  "name": "userspace_digressions",
+  "description": "Make your own userspace init binary.",
+  "state": "not_recommended"
+}, {
+  "name": "rainfall",
+  "description": "Rainfall is an iso challenge slightly more complex than Snow Crash. You will have to dive deep into reverse engineering, learn to reconstruct a code, and understand it to detect faults. Will you reach the last level?",
+  "state": "not_recommended"
+}, {
+  "name": "boot2root",
+  "description": "Security Challenge.In a group, search for various means to pass root on the ISO given to you.",
+  "state": "not_recommended"
+}, {
+  "name": "UnleashTheBox",
+  "description": "An immersive cybersecurity project where participants learn to exploit systems and acquire essential skills to navigate the dynamic world of information security.",
+  "state": "not_recommended"
+}, {
+  "name": "ft_shield",
+  "description": "Use your skills to create a daemon to create your first basic trojan.",
+  "state": "not_recommended"
+}, {
+  "name": "ft_ssl_rsa",
+  "description": "You will code your own random prime number generator and use it to make private RSA keys.",
+  "state": "not_recommended"
+}, {
+  "name": "ft_traceroute",
+  "description": "Re-coding the traceroute command will be the opportunity to deepen your knowledge of TCP/IP networks by following the paths of an IP packet from one machine to another.",
+  "state": "not_recommended"
+}, {
+  "name": "total-perspective-vortex",
+  "description": "Learn to use python tools to process large dimension data, and create a man-machine interface thanks to brainwaves.",
+  "state": "not_recommended"
+}, {
+  "name": "ft_kalman",
+  "description": "Aboard a generic vehicle with flawed sensors, you will need to create a kalman filter in order to track his position coordinates. This project is a good introduction to signal filtering, matrix operations, gaussian noise and correlation.",
+  "state": "not_recommended"
+}, {
+  "name": "krpsim",
+  "description": "This algorithm project consists of creating a program that will optimize rendering of a process graph, with some resource constraints. It’s up to you to explore the existing algorithms and choose, possibly create, what you seem most fit. For this project, you can choose the language you want",
+  "state": "not_recommended"
+}, {
+  "name": "Leaffliction",
+  "description": "An innovative computer vision project utilizing leaf image analysis for disease recognition.",
+  "state": "not_recommended"
+}, {
+  "name": "swifty-proteins",
+  "description": "This project will give you the opportunity to create 3D scenes. For the most part, you will make an application that models ligands in 3D. This will also help you to deepen your knowledge of a mobile framework.",
+  "state": "not_recommended"
+}, {
+  "name": "Open Project",
+  "description": "This project offers the opportunity for long-term project management on a topic of your choice, including some computer science related elements. Collaborate with other 42 students and complete within 6 months.",
+  "state": "available"
+}, {
+  "name": "corewar",
+  "description": "This project involves creating a virtual arena, and having simplistic-language programs fight each other. You will thus get acquainted with VM conception (with instructions it recognizes, registers, etc) and compilation problems of an assembly language in bytecode. In bonus, the pleasure to have your champions fight in the arena.",
+  "state": "available"
+}, {
+  "name": "tinky-winkey",
+  "description": "Introduction to windows operating system by creating a service that run a keylogger.",
+  "state": "available"
+}, {
+  "name": "woody-woodpacker",
+  "description": "A logical follow-up project on nm/otools that is designed to modify the headers of a ELF64 file. The goal here is to add a chunk of code and hide a non-stripped part of a file.",
+  "state": "available"
+}, {
+  "name": "taskmaster",
+  "description": "This program is a job control task, in any language. The project is very close to the supervisor program on your computer",
+  "state": "available"
+}, {
+  "name": "ft_ls",
+  "description": "For knowing the filesystem inside out, and how files and directories are sorted, you will code by yourself one of the most used command: ls.",
+  "state": "available"
+}, {
+  "name": "tweets [DEPRECATED]",
+  "description": "This project is an introduction to natural language processing: bag of words, TFIDF, stemming, lemmatization, stop-words, cosine similarity, n-grams, word2vec",
+  "state": "available"
+}, {
+  "name": "guimp",
+  "description": "The goal of this project is to create a graphic interface library. You will have to prove it works correctly with a small 2D image software. This library must as complete and modular as possible, the goal being to re-use it in future projects, whether for projects in the graphic branch or other projects of you training.",
+  "state": "available"
+}, {
+  "name": "mod1",
+  "description": "This simulation graphic project will have you represent a surface in 3D, on which water will flow. Empirical or scientific (with many equations), recreate a wave, a tsunami or maybe just rain on your surface.",
+  "state": "available"
+}, {
+  "name": "lem_in",
+  "description": "Your ant colony must move from on point to another. How do you do it in the shortest time possible? This project will get you acquainted with graph traversal algorithms: your program will have to intelligently select paths and precise movements used by the ants",
+  "state": "available"
+}, {
+  "name": "rubik",
+  "description": "Non-trivial algorithm project: create a Rubik’s cube solver. You can choose the language you want for this project.",
+  "state": "available"
+}, {
+  "name": "Piscine Data Science",
+  "description": "Introduction to data science via the different professions",
+  "state": "not_recommended"
+}, {
+  "name": "Java Module 00",
+  "description": "In this first module, you will learn the basics of solving both trivial and more challenging business tasks using basic Java language constructs.",
+  "state": "available"
+}, {
+  "name": "churn",
+  "description": "This project is an introduction to artificial neural nets: fully-connected neural nets, hidden layers, activation functions, back-propagation, dropout",
+  "state": "unavailable"
+}, {
+  "name": "Startup Internship",
+  "description": "A good professional integration remains one of the fundamental objectives of the school. This project offers you the possibility of founding a startup and work on it as a full-time job for the next months.",
+  "state": "unavailable"
+}, {
+  "name": "drivers-and-interrupts",
+  "description": "Learn how to connect a driver to your kernel. We will use a keyboard driver for this project.",
+  "state": "unavailable"
+}, {
+  "name": "process-and-memory",
+  "description": "An introduction to syscalls and memory management within linux kernel",
+  "state": "unavailable"
+}, {
+  "name": "filesystem",
+  "description": "Create your own filesystem, for your linux kernel.",
+  "state": "unavailable"
+}, {
+  "name": "Exam Rank 06",
+  "description": "",
+  "state": "in_progress"
+}, {
+  "name": "Java Module 03",
+  "description": "In this module you will learn how to use basic multithreading mechanisms in Java",
+  "state": "unavailable"
+}, {
+  "name": "messagequeue",
+  "description": "We will learn how to work with a large flow of tasks using RabbitMQ message broker, a popular implementation of MQ pattern",
+  "state": "unavailable"
+}, {
+  "name": "Microshop",
+  "description": "Now you will master the skills of creating microservice application and deploying them to the Cloud using Micronaut framework and various Oracle technologies",
+  "state": "unavailable"
+}, {
+  "name": "ft_microservices",
+  "description": "Now you will master the skills of creating microservice applications using Spring framework",
+  "state": "unavailable"
+}, {
+  "name": "Fried eggs",
+  "description": "This project is an introduction to Deep Learning and computer vision (CNN, instance segmentation, object detection, data labeling)",
+  "state": "unavailable"
+}, {
+  "name": "famine",
+  "description": "Welcome to the wonderful world of viruses, trojans and other <Insert random antiVirus software>… Your goal here is to put your skills on handling binary files and make your first virus. WARNING: this project is solely for educational purposes!",
+  "state": "unavailable"
+}, {
+  "name": "fwa",
+  "description": "in this project you will develop your First Web Application using standard Java technologies",
+  "state": "unavailable"
+}, {
+  "name": "restful",
+  "description": "In this project you will learn how to use Spring mechanisms to develop REST applications",
+  "state": "unavailable"
+}, {
+  "name": "Spring Boot",
+  "description": "Let's make a final MVP for our web application using the most current Java-based Spring Boot development technology",
+  "state": "unavailable"
+}, {
+  "name": "cinema",
+  "description": "Let's expand your knowledge of Java web development using the Spring stack and master Hibernate framework",
+  "state": "unavailable"
+}, {
+  "name": "Java Module 09",
+  "description": "In this module you will implement the basic mechanism of a client/server application based on Java—Sockets API",
+  "state": "unavailable"
+}, {
+  "name": "Java Module 08",
+  "description": "In this module you will learn about enterprise-level Java development and the basics of the Spring framework",
+  "state": "unavailable"
+}, {
+  "name": "Java Module 07",
+  "description": "In this module you will develop your own frameworks that use the reflection and annotations mechanisms",
+  "state": "unavailable"
+}, {
+  "name": "Java Module 06",
+  "description": "In this module you will learn the basics of module and integration testing",
+  "state": "unavailable"
+}, {
+  "name": "Java Module 05",
+  "description": "In this module you will use the key mechanisms to work with PostgreSQL DBMS via JDBC",
+  "state": "unavailable"
+}, {
+  "name": "Java Module 04",
+  "description": "In this module you will learn to create library archives and use external libraries",
+  "state": "unavailable"
+}, {
+  "name": "Java Module 02",
+  "description": "In this module you will learn how to use input/output in Java and implement programs to manipulate a file system",
+  "state": "unavailable"
+}, {
+  "name": "Java Module 01",
+  "description": "In this module, you will learn how to model the operation of various collections correctly, and create a full-scale money transfer application",
+  "state": "unavailable"
+}, {
+  "name": "City Life",
+  "description": "This project is an introduction to geospatial analytics: GeoPandas, clustering, making maps",
+  "state": "unavailable"
+}, {
+  "name": "Uber",
+  "description": "This project is an introduction to time series analysis: stationarity, exponential smoothing, SARIMA",
+  "state": "unavailable"
+}, {
+  "name": " Understanding customer",
+  "description": "This project is an introduction to deep learning and NLP: recurrent neural nets (RNN), LSTM, Transformer, BERT",
+  "state": "unavailable"
+}, {
+  "name": "mySpotify",
+  "description": "This project is an introduction to algorithms used for recommendations: non-personalized, content-based, collaborative filtering.",
+  "state": "unavailable"
+}, {
+  "name": "death",
+  "description": "Last virus project. Create with your Famine, Pestilence and War a real metamorphic code.",
+  "state": "unavailable"
+}, {
+  "name": "war",
+  "description": "Third virus project. Reuse Pestilence, and manage to have your binary modify its signature on runtime.",
+  "state": "unavailable"
+}, {
+  "name": "pestilence",
+  "description": "Second virus project. Reuse the Famine base to add a hiding method of your code.",
+  "state": "unavailable"
+}] 
